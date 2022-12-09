@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Georgi Tinchev</h1>
 <h3 align="center">An aspiring frontend developer from Bulgaria</h3>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **React, Javascript, Azure**
 
