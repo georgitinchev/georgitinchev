@@ -76,7 +76,7 @@ At SEGA, I work as a Junior Sysadmin, managing cloud infrastructure and troubles
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/p1em/512/bash.png" width="36" height="36" alt="Bash" />
+    <img src="https://img.icons8.com/color/600/bash.png" width="36" height="36" alt="Bash" />
   </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="36" height="36" alt="Jenkins" />
