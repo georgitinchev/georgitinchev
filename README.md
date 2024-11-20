@@ -177,3 +177,14 @@ I’m continuously learning and growing in the field of **DevOps** and **cloud e
   </a>
 </p>
 
+### Stats
+
+## Programming Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgitinchev&layout=compact&langs_count=10)
+
+## GitHub Activity
+
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=georgitinchev&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+
