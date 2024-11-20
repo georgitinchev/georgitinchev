@@ -1,10 +1,12 @@
 ## Hi 👋 My name is Georgi Tinchev
 
-I’m an aspiring DevOps/Cloud Engineer based in Sofia, Bulgaria, with experience in IT support, cloud technologies, and software engineering. After completing my Propedeutics Diploma at Fontys, I chose to focus on hands-on cloud skills, aligning with both my career goals and personal well-being. At SEGA, I work as a Junior Sysadmin, managing cloud infrastructure and troubleshooting systems. Previously, in a Stage 2 Technical Support position over Azure, I provided expert support for Azure's Identity Services, including Active Directory, Azure AD, app integrations, SSO, PIM, and RBAC. I’m proficient in using tools like Kusto, PowerShell, and Fiddler. Feel free to reach out if you'd like to discuss cloud technologies or explore potential collaboration opportunities.
+I’m a 21 year old aspiring DevOps/Cloud Engineer based in Sofia, Bulgaria, with experience in IT support, cloud technologies, and software engineering. After completing my Propedeutics Diploma at Fontys, I chose to focus on hands-on cloud skills, aligning with both my career goals and personal well-being. 
 
-- 🌍  I'm based in Sofia, Bulgaria  
+At SEGA, I work as a Junior Sysadmin, managing cloud infrastructure and troubleshooting systems. Previously, in a Stage 2 Technical Support position over Azure, I provided expert support for Azure's Identity Services, including Active Directory, Azure AD, app integrations, SSO, PIM, and RBAC. I’m proficient in using tools like Kusto, PowerShell, and Fiddler. 
+
+- 🌍  I'm based in Sofia, BG. Previously in NL.
 - ✉️  You can contact me at [georgi.tinchev.124@gmail.com](mailto:georgi.tinchev.124@gmail.com)  
-- 🧠  I'm learning Linux & Towards AZ-400 Cert ☁🖥️  
+- 🧠  I'm learning Linux & Towards AZ-400 DevOps certs ☁🖥️  
 - 🤝  I'm open to collaborating on open-source projects and cloud technology initiatives.  
 - ⚡  Passionate about music production and 3D art, which fuel my creativity and complement my technical skills.
 
