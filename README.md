@@ -36,7 +36,6 @@ At SEGA, I work as a Junior Sysadmin, managing cloud infrastructure and troubles
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
     <a href="https://dotnet.microsoft.com/en-us/download/dotnet-core" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="36" height="36" alt=".NET Core" />
 </a>
@@ -50,7 +49,7 @@ At SEGA, I work as a Junior Sysadmin, managing cloud infrastructure and troubles
   <img src="https://www.svgrepo.com/show/353930/jest.svg" width="36" height="36" alt="Jest" />
 </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.svgrepo.com/show/473611/flask.svg" width="36" height="36" alt="Flask" />
+  <img src="https://cdn.hackersandslackers.com/2020/05/flask.png" width="36" height="36" alt="Flask" />
 </a>
 </p>
 
