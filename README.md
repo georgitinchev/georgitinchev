@@ -1,12 +1,10 @@
 ## Hi 👋 My name is Georgi Tinchev
 
-I'm a 21-year-old aspiring DevOps/Cloud Engineer based in Sofia, Bulgaria. With experience in IT support, cloud technologies, and software engineering, I’m passionate about building scalable, reliable systems. After completing my Propedeutics Diploma at Fontys, I chose to focus on hands-on cloud skills that align with both my career goals and personal well-being.
+I'm a 21-year-old aspiring **DevOps/Cloud Engineer** based in **Sofia, Bulgaria**. With experience in IT support, cloud technologies, and software engineering, I’m passionate about building scalable, reliable systems. After completing my **Propedeutics Diploma** at **![Fontys](https://cdn.iconscout.com/icon/free/png-256/free-fontys-logo-icon-download-in-svg-png-gif-file-formats--company-brand-world-logos-vol-12-pack-icons-283252.png)**, I chose to focus on hands-on cloud skills that align with both my career goals and personal well-being.
 
-Currently, I work as a Junior Sysadmin at SEGA, where I manage cloud infrastructure and troubleshoot systems to ensure operational efficiency. Prior to this, I was in a Stage 2 Technical Support role for Azure’s Identity Services, where I provided expert support for Active Directory, Azure AD, SSO, PIM, and RBAC. I have a solid foundation in utilizing tools like Kusto, PowerShell, and Fiddler to solve complex technical challenges.
+Currently, I work as a **Junior Sysadmin** at **![SEGA](https://seeklogo.com/images/S/Sega-logo-595C838569-seeklogo.com.png)**, where I manage cloud infrastructure and troubleshoot systems to ensure operational efficiency. Prior to this, I worked in a **Stage 2 Technical Support** role for **![Microsoft](https://static.vecteezy.com/system/resources/thumbnails/028/339/963/small_2x/microsoft-icon-logo-symbol-free-png.png)** Azure's Identity Services, providing expert support for **Active Directory**, **Azure AD**, **SSO**, **PIM**, and **RBAC**. I have a solid foundation in utilizing tools like **Kusto**, **PowerShell**, and **Fiddler** to solve complex technical challenges.
 
-I’m continuously learning and growing in the field of DevOps and cloud engineering, and I’m always looking for new opportunities to enhance my skills and collaborate on innovative projects.
-
-
+I’m continuously learning and growing in the field of **DevOps** and **cloud engineering**, and I’m always looking for new opportunities to enhance my skills and collaborate on innovative projects.
 
 - 🌍  I'm based in Sofia, BG. Previously in NL.
 - ✉️  You can contact me at [georgi.tinchev.124@gmail.com](mailto:georgi.tinchev.124@gmail.com)  
