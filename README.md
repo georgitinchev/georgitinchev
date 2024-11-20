@@ -49,7 +49,7 @@ At SEGA, I work as a Junior Sysadmin, managing cloud infrastructure and troubles
   <img src="https://www.svgrepo.com/show/353930/jest.svg" width="36" height="36" alt="Jest" />
 </a>
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.hackersandslackers.com/2020/05/flask.png" width="36" height="36" alt="Flask" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRubRv-E-PFnEuyYITdMYPqMXrBLOIKUTW8ug&s" width="36" height="36" alt="Flask" />
 </a>
 </p>
 
@@ -60,7 +60,7 @@ At SEGA, I work as a Junior Sysadmin, managing cloud infrastructure and troubles
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
 </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" width="36" height="36" alt="SQL Server" />
+  <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" width="36" height="36" alt="SQL Server" />
 </a>
 </p>
 
