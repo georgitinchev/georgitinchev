@@ -37,6 +37,21 @@ At SEGA, I work as a Junior Sysadmin, managing cloud infrastructure and troubles
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
   <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+    <a href="https://dotnet.microsoft.com/en-us/download/dotnet-core" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" width="36" height="36" alt=".NET Core" />
+</a>
+  <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework" target="_blank" rel="noreferrer">
+  <img src="https://iconape.com/wp-content/files/pd/353150/svg/353150.svg" width="36" height="36" alt=".NET Framework" />
+</a>
+  <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
+  <img src="https://mochajs.org/images/mocha-logo.svg" width="36" height="36" alt="Mocha" />
+</a>
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/353930/jest.svg" width="36" height="36" alt="Jest" />
+</a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.svgrepo.com/show/473611/flask.svg" width="36" height="36" alt="Flask" />
+</a>
 </p>
 
 <h3 align="left">🛢️ Databases</h3>
@@ -45,21 +60,27 @@ At SEGA, I work as a Junior Sysadmin, managing cloud infrastructure and troubles
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
 </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" width="36" height="36" alt="SQL Server" />
+</a>
 </p>
 
 <h3 align="left">☁️ DevOps & Tools</h3>
 <p align="left">
     <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Microsoft Azure" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" width="36" height="36" alt="Microsoft Azure" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/144_Gitlab_logo_logos-512.png" width="36" height="36" alt="GitLab" />
+</a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bash-colored.svg" width="36" height="36" alt="Bash" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFDJLaUHfkk5JOqF2RTfK4m3RgHi3kM7Txw&s" width="36" height="36" alt="Bash" />
   </a>
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jenkins-colored.svg" width="36" height="36" alt="Jenkins" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="36" height="36" alt="Jenkins" />
 </a>
 </p>
 
@@ -71,13 +92,32 @@ At SEGA, I work as a Junior Sysadmin, managing cloud infrastructure and troubles
   <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
   <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a href="https://www.image-line.com/" target="_blank" rel="noreferrer">
+  <img src="https://i.redd.it/szswuem4y3381.png" width="36" height="36" alt="FL Studio" /></a>
+    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
 </p>
 
 <h3 align="left">🔧 Other Skills</h3>
 <p align="left">
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
   <a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="36" height="36" alt="PowerShell" />
+</a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.creazilla.com/icons/3254217/postman-icon-lg.png" width="36" height="36" alt="Postman" />
+</a>
+  <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer">
+  <img src="https://codeopinion.com/wp-content/uploads/2017/08/logo.png" width="36" height="36" alt="JetBrains Rider" />
+</a>
+  <a href="https://app.diagrams.net/" target="_blank" rel="noreferrer">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB--8GKh9DaKiX6Mw5RvUojmzy3d2wNWkBfw&s" width="36" height="36" alt="Draw.io" />
+</a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" width="36" height="36" alt="Visual Studio Code" />
+</a>
+  <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" width="36" height="36" alt="Visual Studio 2022" />
+</a>
 </p>
 
 ---
