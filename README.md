@@ -1,6 +1,8 @@
 ## Hi 👋 My name is Georgi Tinchev
 
-![Placeholder Landing Page GIF](demo.gif)
+<p align="center">
+  <img src="demo.gif" alt="Placeholder Landing Page GIF">
+</p>
 
 I’m a 21-year-old aspiring DevOps/Cloud Engineer from Sofia, Bulgaria, currently working as a Junior Sysadmin at <img src="https://seeklogo.com/images/S/Sega-logo-595C838569-seeklogo.com.png" width="50" alt="SEGA">. I have experience in IT support, cloud technologies, and software engineering, with a focus on building scalable systems. I previously worked with Azure Identity Services at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Microsoft_icon.svg/2048px-Microsoft_icon.svg.png" width="20" alt="Microsoft"> (outsorcing), providing expert support for Active Directory, Azure AD, SSO, PIM, and RBAC. Passionate about DevOps and cloud engineering, I'm always learning and seeking new opportunities to grow.
 
