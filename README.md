@@ -1,10 +1,6 @@
 ## Hi 👋 My name is Georgi Tinchev
 
-I'm a 21-year-old aspiring **DevOps/Cloud Engineer** based in **Sofia, Bulgaria**. With experience in IT support, cloud technologies, and software engineering, I’m passionate about building scalable, reliable systems. After completing my **Propedeutics Diploma** at <img src="https://cdn.freebiesupply.com/logos/large/2x/fontys-39-logo-svg-vector.svg" width="42" alt="Fontys">, I chose to focus on hands-on cloud skills that align with both my career goals and personal well-being.
-
-Currently, I work as a **Junior Sysadmin** at <img src="https://seeklogo.com/images/S/Sega-logo-595C838569-seeklogo.com.png" width="50" alt="SEGA">, where I manage cloud infrastructure and troubleshoot systems to ensure operational efficiency. Prior to this, I worked in a **Stage 2 Technical Support** role for <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Microsoft_icon.svg/2048px-Microsoft_icon.svg.png" width="20" alt="Microsoft"> Azure's Identity Services, providing expert support for **Active Directory**, **Azure AD**, **SSO**, **PIM**, and **RBAC**. I have a solid foundation in utilizing tools like **Kusto**, **PowerShell**, and **Fiddler** to solve complex technical challenges.
-
-I’m continuously learning and growing in the field of **DevOps** and **cloud engineering**, and I’m always looking for new opportunities to enhance my skills and collaborate on innovative projects.
+I’m a 21-year-old aspiring DevOps/Cloud Engineer from Sofia, Bulgaria, currently working as a Junior Sysadmin at <img src="https://seeklogo.com/images/S/Sega-logo-595C838569-seeklogo.com.png" width="50" alt="SEGA">. I have experience in IT support, cloud technologies, and software engineering, with a focus on building scalable systems. I previously worked in Azure Identity Services at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Microsoft_icon.svg/2048px-Microsoft_icon.svg.png" width="20" alt="Microsoft">, providing expert support for Active Directory, Azure AD, SSO, PIM, and RBAC. Passionate about DevOps and cloud engineering, I'm always learning and seeking new opportunities to grow.
 
 - 🌍  I'm based in Sofia, BG. Previously in NL.
 - ✉️  You can contact me at [georgi.tinchev.124@gmail.com](mailto:georgi.tinchev.124@gmail.com)  
