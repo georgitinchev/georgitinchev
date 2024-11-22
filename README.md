@@ -15,7 +15,7 @@ I’m a 21-year-old aspiring DevOps/Cloud Engineer from Sofia, Bulgaria, current
 
 ---
 
-### Skills
+### Skills & Known Technologies
 
 <h3 align="left">👨‍💻 Programming Languages</h3>
 <p align="left">
