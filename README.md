@@ -58,8 +58,6 @@ I’m a 21-year-old aspiring DevOps/Cloud Engineer from Sofia, Bulgaria, current
 <h3 align="left">🛢️ Databases</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
 </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" width="36" height="36" alt="SQL Server" />
