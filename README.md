@@ -4,7 +4,7 @@
   <img src="demo.gif" alt="Placeholder Landing Page GIF">
 </p>
 
-I’m a 21-year-old aspiring DevOps/Cloud Engineer from Sofia, Bulgaria, currently working as a Junior IT Technician at <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/75400ac6-1be9-43d4-8ac4-a3e342a0b0c4/df4jq6s-48cbdba3-55e7-4d5c-b230-e05b24219f25.png" width="50" alt="SEGA">. I have experience in IT support, cloud technologies, and software engineering, with a focus on building scalable systems. I previously worked with Azure Identity Services at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Microsoft_icon.svg/2048px-Microsoft_icon.svg.png" width="20" alt="Microsoft"> (outsorcing), providing expert support for Active Directory, Azure AD, SSO, PIM, and RBAC. Passionate about DevOps and cloud engineering, I'm always learning and seeking new opportunities to grow.
+I’m a 21-year-old aspiring DevOps/Cloud Engineer from Sofia, Bulgaria, currently working as a Junior IT Technician at <img src="https://seeklogo.com/images/S/Sega-logo-595C838569-seeklogo.com.png" width="50" alt="SEGA">. I have experience in IT support, cloud technologies, and software engineering, with a focus on building scalable systems. I previously worked with Azure Identity Services at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Microsoft_icon.svg/2048px-Microsoft_icon.svg.png" width="20" alt="Microsoft"> (outsorcing), providing expert support for Active Directory, Azure AD, SSO, PIM, and RBAC. Passionate about DevOps and cloud engineering, I'm always learning and seeking new opportunities to grow.
 
 - 🌍  I'm based in Sofia, BG. Previously in NL.
 - ✉️  You can contact me at [georgi.tinchev.124@gmail.com](mailto:georgi.tinchev.124@gmail.com)  
