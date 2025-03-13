@@ -4,11 +4,11 @@
   <img src="demo.gif" alt="Placeholder Landing Page GIF">
 </p>
 
-I’m a 21-year-old aspiring DevOps/Cloud Engineer from Sofia, Bulgaria, currently working as a Junior IT Technician at SEGA. I have experience in IT support, cloud technologies, and software engineering, with a focus on building scalable systems. I previously worked with Azure Identity Services at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Microsoft_icon.svg/2048px-Microsoft_icon.svg.png" width="20" alt="Microsoft"> (outsorcing), providing expert support for Active Directory, Azure AD, SSO, PIM, and RBAC. Passionate about DevOps and cloud engineering, I'm always learning and seeking new opportunities to grow.
+I'm a 21-year-old aspiring DevOps/Cloud Engineer from Sofia, Bulgaria with a background in IT Support, cloud technologies and software engineering. I've worked at SEGA as a Junior IT technician for a bit and with Azure Identity Services at <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Microsoft_icon.svg/2048px-Microsoft_icon.svg.png" width="20" alt="Microsoft"> within the outsorcing sector in Sofia, providing expert support for Active Directory, Azure AD, SSO, PIM, and RBAC. Passionate about DevOps and cloud engineering, I'm always learning and seeking new opportunities to grow.
 
 - 🌍  I'm based in Sofia, BG. Previously in NL.
 - ✉️  You can contact me at [georgi.tinchev.124@gmail.com](mailto:georgi.tinchev.124@gmail.com)  
-- 🧠  I'm learning Linux & Towards AZ-400 DevOps certs ☁🖥️  
+- 🏆  I've recently passed the AZ-900 and im learning Linux & Towards AZ-400 DevOps certs ☁🖥️  
 - 🤝  I'm open to collaborating on open-source projects and cloud technology initiatives.  
 - ⚡  Passionate about music production and 3D art, which fuel my creativity and complement my technical skills.
 - 💭  Previously studied Japanese in highschool.
