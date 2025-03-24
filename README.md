@@ -8,7 +8,7 @@ I'm a **21-year-old** aspiring **DevOps/Cloud Engineer & Developer** from Sofia,
 
 - 🌍 Based in Sofia, BG (Previously in NL)  
 - ✉️ Contact me at [georgi.tinchev.124@gmail.com](mailto:georgi.tinchev.124@gmail.com)  
-- 🏆 **AZ-900 certified**, currently learning **Linux & preparing for AZ-400** ☁  
+- 🏆 **AZ-900 certified**,  🐳 currently exploring Docker, **Kubernetes & Microservices** ☁  
 - 🤝 Open to **collaborating on open-source projects & cloud initiatives**  
 - ⚡ Passionate about **music production & 3D art**, blending creativity with tech  
 - 💭 Previously studied **Japanese** in high school  
