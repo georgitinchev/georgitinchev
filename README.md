@@ -180,7 +180,7 @@ I'm a **21-year-old** aspiring **DevOps/Cloud Engineer & Developer** from Sofia,
 
 ## Programming Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgitinchev&layout=compact&langs_count=10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgi-tinchev&layout=donut&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Activity
 
