@@ -83,6 +83,9 @@ I'm a **21-year-old** aspiring **DevOps/Cloud Engineer & Developer** from Sofia,
   <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="36" height="36" alt="Jenkins" />
 </a>
+   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" width="36" height="36" alt="Kubernetes" />
+  </a>
 </p>
 
 <h3 align="left">🎨 Design & Creative Tools</h3>
