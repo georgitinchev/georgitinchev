@@ -4,7 +4,7 @@
   <img src="demo.gif" alt="Placeholder Landing Page GIF">
 </p>
 
-I'm a **21-year-old** aspiring **DevOps/Cloud Engineer & Developer** from Sofia, Bulgaria, with experience in **IT support, cloud technologies, and software development**. I’ve worked at **SEGA as a Junior IT Technician** and with **Azure Identity Services** at ![Microsoft](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Microsoft_icon.svg/20px-Microsoft_icon.svg.png) in the outsourcing sector, supporting **Active Directory, Azure AD, SSO, PIM, and RBAC**.  
+I'm a **21-year-old** aspiring **DevOps/Cloud Engineer** from Sofia, Bulgaria, with experience in **IT support, cloud technologies, and software development**. I’ve worked at **SEGA as a Junior IT Technician** and with **Azure Identity Services** at ![Microsoft](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Microsoft_icon.svg/20px-Microsoft_icon.svg.png) in the outsourcing sector, supporting **Active Directory, Azure AD, SSO, PIM, and RBAC**.  
 
 - 🌍 Based in Sofia, BG (Previously in NL)  
 - ✉️ Contact me at [georgi.tinchev.124@gmail.com](mailto:georgi.tinchev.124@gmail.com)  
