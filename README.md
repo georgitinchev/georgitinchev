@@ -86,8 +86,8 @@ I'm a **22-year-old** aspiring **DevOps/Cloud Engineer** from Sofia, Bulgaria, w
    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/kubernetes-icon-2048x1995-r1q3f8n7.png" width="36" height="36" alt="Kubernetes" />
   </a>
-    <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hashicorp_terraform/hashicorp_terraform-icon.svg" width="36" height="36" alt="Terraform" />
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" width="36" height="36" alt="Terraform" />
   </a>
   <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="36" height="36" alt="Grafana" />
