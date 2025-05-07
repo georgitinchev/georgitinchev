@@ -46,9 +46,6 @@ I'm a **22-year-old** aspiring **DevOps/Cloud Engineer** from Sofia, Bulgaria, w
   <a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework" target="_blank" rel="noreferrer">
   <img src="https://iconape.com/wp-content/files/pd/353150/svg/353150.svg" width="36" height="36" alt=".NET Framework" />
 </a>
-  <a href="https://mochajs.org/" target="_blank" rel="noreferrer">
-  <img src="https://mochajs.org/images/mocha-logo.svg" width="36" height="36" alt="Mocha" />
-</a>
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
   <img src="https://www.svgrepo.com/show/353930/jest.svg" width="36" height="36" alt="Jest" />
 </a>
