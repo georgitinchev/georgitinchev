@@ -4,6 +4,7 @@
 ---
 
 💡 **About Me**  
+
 🇧🇬 Based in Sofia, Bulgaria  
 🛠️ Experience in IT support with a focus on cloud technologies and system troubleshooting  
 🧠 Currently diving deep into DevOps, Cloud Engineering, and Linux  
