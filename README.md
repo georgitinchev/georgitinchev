@@ -38,8 +38,8 @@ Check out my personal portfolio to see more of my work and journey:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=georgitinchev&show_icons=true&theme=tokyonight" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgitinchev&theme=tokyonight" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=georgitinchev&show_icons=true&theme=tokyonight" width="49%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=georgitinchev&theme=tokyonight" width="49%" alt="GitHub Streak">
 </p>
 
 ---
@@ -48,7 +48,7 @@ Check out my personal portfolio to see more of my work and journey:
 
 Open to collaborations, projects, and learning opportunities!
 
-- 💼 LinkedIn: [linkedin.com/in/georgitinchev](https://www.linkedin.com/in/georgi-tinchev-903446215/)
+- 💼 LinkedIn: [linkedin.com/in/georgitinchev](https://www.linkedin.com/in/georgitinchev)  
 - ✉️ Email: [georgi.tinchev.124@gmail.com]
 
 ---
