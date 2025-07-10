@@ -1,5 +1,5 @@
 # Hey there, I'm Georgi Tinchev 👋  
-🚀 DevOps & Cloud Engineer | 💻 Tech Enthusiast
+🚀 Aspiring DevOps & Cloud Engineer | 💻 Tech Enthusiast
 
 ---
 
