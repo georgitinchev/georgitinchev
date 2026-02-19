@@ -13,7 +13,7 @@
 
 ---
 
-🧰 **Core Tech:** K8s • Terraform • Go • Vault • Bash • Linux • C# • Python • JS
+🧰 **Core Tech:** K8s • Terraform • Go • Bash • Linux • C# • Python • JS
 
 🌐 **Portfolio:** [Georgi Site](https://georgitinchev.netlify.app)  
 💬 **Let's Connect:**  
