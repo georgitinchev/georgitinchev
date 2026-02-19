@@ -13,7 +13,7 @@
 
 ---
 
-🧰 **Core Tech:** Python, Terraform, Linux, Azure, AWS, Bash
+🧰 **Core Tech:** K8s • Terraform • Go • Vault • Bash • Linux • C# • Python • JS
 
 🌐 **Portfolio:** [Georgi Site](https://georgitinchev.netlify.app)  
 💬 **Let's Connect:**  
